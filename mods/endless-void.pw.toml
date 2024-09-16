@@ -1,0 +1,13 @@
+name = "Endless Void"
+filename = "Endles void-B_2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QfhCSL5h/versions/IJ9fT3QD/Endles%20void-B_2.jar"
+hash-format = "sha1"
+hash = "b5cf7dee4ecf6bd555559556bac531d3089f89c7"
+
+[update]
+[update.modrinth]
+mod-id = "QfhCSL5h"
+version = "IJ9fT3QD"

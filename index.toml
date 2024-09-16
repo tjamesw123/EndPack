@@ -1,0 +1,209 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "6ca1277bded3aed0d22b91d15237312358e014af14daa90eace623f6e8ff5214"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "a6f52a11f778a154c9ae368a3fcfba41c0672989b8fdad74a564d75ad38fe265"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-base.pw.toml"
+hash = "a5a7fcfe021dfcea66c8afa49805a77af41a783024846d160474ad605d3ae97d"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/chrysalis.pw.toml"
+hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
+metafile = true
+
+[[files]]
+file = "mods/eldritch-end.pw.toml"
+hash = "251a5d849eeec033c63e1f30b6b56541640a8daf0a03010a34dd354c1a9d8a93"
+metafile = true
+
+[[files]]
+file = "mods/end-reborn.pw.toml"
+hash = "edb584b444f78f30e28988dbc075c14402c141b256eedbedd965d7020c5218b8"
+metafile = true
+
+[[files]]
+file = "mods/ender-crop.pw.toml"
+hash = "de3e8806b463fe6457d60d7e67663d5a3963226aa67ec37d6d3c2a0b6f8d011a"
+metafile = true
+
+[[files]]
+file = "mods/enderite-lieonlion.pw.toml"
+hash = "908d1a7e1b07ac406f1c917300254fbd3da4563d4242e9367ceba1de387d0849"
+metafile = true
+
+[[files]]
+file = "mods/endermen-spawn-with-blocks.pw.toml"
+hash = "9fb6582339f1e47935048c56f7ff55b130b4c30671d1240094ae2d0a3826b587"
+metafile = true
+
+[[files]]
+file = "mods/endless-void.pw.toml"
+hash = "75f874b900eca70093e16583a5d764eb0bd433928ca9905035061eeb298d360a"
+metafile = true
+
+[[files]]
+file = "mods/endorium.pw.toml"
+hash = "6a97173310aa415b56ba26eb9e508606ceef9d5ddc1f23e7eadd6a2a8f45641b"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "edb868ad7e8bac36029b2a2131251a71fc3e90200333b4bd1840ee90eef6ad56"
+metafile = true
+
+[[files]]
+file = "mods/ends-phantasm.pw.toml"
+hash = "2ed6379a705a63452feafb34f3afe7e4a52f99b0b8b34111cc1d8a479779fafb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/geode-plus.pw.toml"
+hash = "fa7229521736154e5d43a46fd8f04f60da4ba8939dd50c8a27ddd2b4a3e9ab53"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-673.jar"
+hash = "2374763a97f11a027f79193fa77eeb094224d2df7a40b2c865339d2ce98463ec"
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "aac37788ac1acd537a8b5b32fc2489cddf8034f196f7f38c0755837764b4f01d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fe7474e227102f0b771995353c88384478866e95d639d631ddccd29d2e25448e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "4328ca91b7661092d85beba0ecb45170ec6c1329520325757884f864160bbe67"
+metafile = true
+
+[[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "db96f1c13c6e95816cbfb64c757ca3850688671e59ad09e4f4ce9cc9582a215e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
+metafile = true
+
+[[files]]
+file = "mods/netherandend.pw.toml"
+hash = "54b646ef1f3d39454c75836e6aa57878d4762ab9bc902d89b22f2091803d44f9"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
+metafile = true
+
+[[files]]
+file = "mods/paucal-fabric-1.20.1-0.6.0-pre-118.jar"
+hash = "8b30d6dbca637a0bea8adf58cab1cbe96d4b6083317162381b70305098a12361"
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e0718fa0563cabd944fddf89bcef0e30aad2d5e511e3a746afa6ed2a9c3d076b"
+metafile = true
+
+[[files]]
+file = "mods/qraftys-end-villages.pw.toml"
+hash = "9a056293737de7aee5a87e97a6e059aec902e21b958b1ae4698192f140e70c28"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/stellarity.pw.toml"
+hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
+metafile = true
+
+[[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "d9cb22297a6a0c136d018781d9eabc772045c90e3718803cddb7922e344fd4d6"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "5dddf7a58b8a3ba1e86f380383b11b99742efd178c3c2b1ef24f76db0afda12c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "74ddd354bef761800be3b2072be23cdea3875d8c97bea648724be9647152baaf"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3f9c20d644445a631e0b23b54bff5c5e4f531626919c9d55b5fc5d4fd43b9c64"
+metafile = true

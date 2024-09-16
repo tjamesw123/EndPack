@@ -1,0 +1,13 @@
+name = "Nether & End"
+filename = "netherandend-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FhW0n39r/versions/EXnxd4qc/netherandend-1.1.0.jar"
+hash-format = "sha1"
+hash = "1ae1dbf2eef2ab2fc057ad8e173ae3104418d8b9"
+
+[update]
+[update.modrinth]
+mod-id = "FhW0n39r"
+version = "EXnxd4qc"

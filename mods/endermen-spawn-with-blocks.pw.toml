@@ -1,0 +1,13 @@
+name = "Endermen Spawn with Blocks"
+filename = "EndermenSpawnWithBlocks - v1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BQqJtAjk/versions/2lutdxg7/EndermenSpawnWithBlocks%20-%20v1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "675e874153e599cfb495881686985dfd9928bfd8"
+
+[update]
+[update.modrinth]
+mod-id = "BQqJtAjk"
+version = "2lutdxg7"
