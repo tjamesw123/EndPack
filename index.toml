@@ -90,11 +90,6 @@ hash = "edb868ad7e8bac36029b2a2131251a71fc3e90200333b4bd1840ee90eef6ad56"
 metafile = true
 
 [[files]]
-file = "mods/ends-phantasm.pw.toml"
-hash = "2ed6379a705a63452feafb34f3afe7e4a52f99b0b8b34111cc1d8a479779fafb"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
