@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/BlueMap-5.3-fabric-1.20.jar"
-hash = "bd23d5bc5cf185e888ff061d127251d2baaad5a28ea2b87ad197f06535a7381c"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
