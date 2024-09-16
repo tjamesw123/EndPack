@@ -36,8 +36,18 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
 file = "mods/chrysalis.pw.toml"
 hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -162,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
