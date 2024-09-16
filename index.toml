@@ -60,11 +60,6 @@ hash = "edb584b444f78f30e28988dbc075c14402c141b256eedbedd965d7020c5218b8"
 metafile = true
 
 [[files]]
-file = "mods/ender-crop.pw.toml"
-hash = "de3e8806b463fe6457d60d7e67663d5a3963226aa67ec37d6d3c2a0b6f8d011a"
-metafile = true
-
-[[files]]
 file = "mods/enderite-lieonlion.pw.toml"
 hash = "908d1a7e1b07ac406f1c917300254fbd3da4563d4242e9367ceba1de387d0849"
 metafile = true
