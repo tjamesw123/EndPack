@@ -36,10 +36,6 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api-5.2.2.jar"
-hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
-
-[[files]]
 file = "mods/chrysalis.pw.toml"
 hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
 metafile = true
@@ -100,25 +96,9 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric-1.20.1-4.3.1.jar"
-hash = "b45dad882f6b9d1d5e93c78e0717dba309657c6d14c7a4abd3dc4c2e3f3b8448"
-
-[[files]]
 file = "mods/geode-plus.pw.toml"
 hash = "fa7229521736154e5d43a46fd8f04f60da4ba8939dd50c8a27ddd2b4a3e9ab53"
 metafile = true
-
-[[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
-hash = "934a3dbd3118f5982527dff8735aa93b3a9a4ebe8cd5f575fd6e570d84af0e33"
-
-[[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-634.jar"
-hash = "33be0064227d3d0f47747576b40b2053f250d0b653cc2bd939005305c39f08dc"
-
-[[files]]
-file = "mods/hexxy-dimensions-1.3.0.jar"
-hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -156,10 +136,6 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
-file = "mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
-hash = "9cc2e20e1b067944ba6ef76b9751705b172a6ebf7766bf62b5d87c8875f3d166"
-
-[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
@@ -180,10 +156,6 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
-file = "mods/paucal-fabric-1.20.1-0.6.0-pre-118.jar"
-hash = "8b30d6dbca637a0bea8adf58cab1cbe96d4b6083317162381b70305098a12361"
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e0718fa0563cabd944fddf89bcef0e30aad2d5e511e3a746afa6ed2a9c3d076b"
 metafile = true
@@ -192,6 +164,10 @@ metafile = true
 file = "mods/qraftys-end-villages.pw.toml"
 hash = "9a056293737de7aee5a87e97a6e059aec902e21b958b1ae4698192f140e70c28"
 metafile = true
+
+[[files]]
+file = "mods/scriptor-1.0.4-1.20.1-sgd.jar"
+hash = "a35b0ae6d094eddd15ac50b841d9e8a761c4a0f52a443464b2740c68ece62041"
 
 [[files]]
 file = "mods/sodium.pw.toml"
