@@ -110,17 +110,9 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric-1.20.1-4.3.1.jar"
-hash = "b45dad882f6b9d1d5e93c78e0717dba309657c6d14c7a4abd3dc4c2e3f3b8448"
-
-[[files]]
 file = "mods/geode-plus.pw.toml"
 hash = "fa7229521736154e5d43a46fd8f04f60da4ba8939dd50c8a27ddd2b4a3e9ab53"
 metafile = true
-
-[[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
-hash = "4ceaab499c4335a41ac142801c3321c12f3dee580eaa80886afcd6d37cac7079"
 
 [[files]]
 file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-634.jar"
@@ -160,10 +152,6 @@ metafile = true
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
-
-[[files]]
-file = "mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
-hash = "9cc2e20e1b067944ba6ef76b9751705b172a6ebf7766bf62b5d87c8875f3d166"
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
