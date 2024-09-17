@@ -115,10 +115,6 @@ hash = "fa7229521736154e5d43a46fd8f04f60da4ba8939dd50c8a27ddd2b4a3e9ab53"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-634.jar"
-hash = "33be0064227d3d0f47747576b40b2053f250d0b653cc2bd939005305c39f08dc"
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
