@@ -96,6 +96,11 @@ hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -104,6 +109,14 @@ metafile = true
 file = "mods/geode-plus.pw.toml"
 hash = "fa7229521736154e5d43a46fd8f04f60da4ba8939dd50c8a27ddd2b4a3e9ab53"
 metafile = true
+
+[[files]]
+file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
+hash = "4ceaab499c4335a41ac142801c3321c12f3dee580eaa80886afcd6d37cac7079"
+
+[[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-673.jar"
+hash = "2374763a97f11a027f79193fa77eeb094224d2df7a40b2c865339d2ce98463ec"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -159,6 +172,10 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
+
+[[files]]
+file = "mods/paucal-fabric-1.20.1-0.6.0-pre-118.jar"
+hash = "8b30d6dbca637a0bea8adf58cab1cbe96d4b6083317162381b70305098a12361"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
