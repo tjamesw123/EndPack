@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/PacketFixer-fabric-1.2.1-1.20.1.jar"
+hash = "bd74e1db9ebdedf6f6460788f4cd01cdd790a34aa57406e689575751feaabbe7"
+
+[[files]]
+file = "mods/Patchouli-1.20.1-84-FABRIC.jar"
+hash = "96ad2c77adf1d0fe1994223b5f469848d51d111b33737efb708eba4ad8f4d2e0"
+
+[[files]]
+file = "mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -36,9 +48,17 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api-5.2.2.jar"
+hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
+
+[[files]]
 file = "mods/chrysalis.pw.toml"
 hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
 metafile = true
+
+[[files]]
+file = "mods/cloth-config-11.1.118-fabric.jar"
+hash = "1a5b6bfc5abb0516b2aa883f99ddff11af2faa5cebdf33beb52cd4e3cd37bb75"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -81,6 +101,10 @@ hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar"
+hash = "4cc86a5ca56236f776ec9b84370fb02ac4f7cdf88a3c82886da9c558e1e4f39c"
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
@@ -96,9 +120,29 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric-1.20.1-4.3.1.jar"
+hash = "b45dad882f6b9d1d5e93c78e0717dba309657c6d14c7a4abd3dc4c2e3f3b8448"
+
+[[files]]
 file = "mods/geode-plus.pw.toml"
 hash = "fa7229521736154e5d43a46fd8f04f60da4ba8939dd50c8a27ddd2b4a3e9ab53"
 metafile = true
+
+[[files]]
+file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
+hash = "934a3dbd3118f5982527dff8735aa93b3a9a4ebe8cd5f575fd6e570d84af0e33"
+
+[[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.1-7-pre-634.jar"
+hash = "33be0064227d3d0f47747576b40b2053f250d0b653cc2bd939005305c39f08dc"
+
+[[files]]
+file = "mods/hextweaks-4.0.0.jar"
+hash = "fa2c7f75ec85f75e2f62367641db8c0fa490a620462a1b9cbab94e751aae5885"
+
+[[files]]
+file = "mods/hexxy-dimensions-1.3.0.jar"
+hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -156,6 +200,10 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
+file = "mods/paucal-fabric-1.20.1-0.6.0-pre-118.jar"
+hash = "8b30d6dbca637a0bea8adf58cab1cbe96d4b6083317162381b70305098a12361"
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e0718fa0563cabd944fddf89bcef0e30aad2d5e511e3a746afa6ed2a9c3d076b"
 metafile = true
@@ -164,6 +212,10 @@ metafile = true
 file = "mods/qraftys-end-villages.pw.toml"
 hash = "9a056293737de7aee5a87e97a6e059aec902e21b958b1ae4698192f140e70c28"
 metafile = true
+
+[[files]]
+file = "mods/raknetify-fabric-0.1.0+alpha.5.114-all.jar"
+hash = "a4171f9a48d1b360e369babf74c8ae5de4d2ef036301f24ffb3486dfa9527e86"
 
 [[files]]
 file = "mods/scriptor-1.0.4-1.20.1-sgd.jar"
