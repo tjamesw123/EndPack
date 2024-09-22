@@ -101,10 +101,6 @@ hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar"
-hash = "4cc86a5ca56236f776ec9b84370fb02ac4f7cdf88a3c82886da9c558e1e4f39c"
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
