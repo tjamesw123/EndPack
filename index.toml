@@ -5,14 +5,6 @@ file = "mods/PacketFixer-fabric-1.2.1-1.20.1.jar"
 hash = "bd74e1db9ebdedf6f6460788f4cd01cdd790a34aa57406e689575751feaabbe7"
 
 [[files]]
-file = "mods/Patchouli-1.20.1-84-FABRIC.jar"
-hash = "96ad2c77adf1d0fe1994223b5f469848d51d111b33737efb708eba4ad8f4d2e0"
-
-[[files]]
-file = "mods/architectury-9.2.14-fabric.jar"
-hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -63,11 +55,6 @@ hash = "1a5b6bfc5abb0516b2aa883f99ddff11af2faa5cebdf33beb52cd4e3cd37bb75"
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
-metafile = true
-
-[[files]]
-file = "mods/eldritch-end.pw.toml"
-hash = "251a5d849eeec033c63e1f30b6b56541640a8daf0a03010a34dd354c1a9d8a93"
 metafile = true
 
 [[files]]
