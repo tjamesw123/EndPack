@@ -6,8 +6,3 @@ side = "server"
 url = "https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v5.3/BlueMap-5.3-fabric-1.20.jar"
 hash-format = "sha1"
 hash = "4f4af6f912a89df94a4c5fbddc288ab3d17d05a1"
-
-[update]
-[update.modrinth]
-mod-id = "lhGA9TYQ"
-version = "WbL7MStR"
