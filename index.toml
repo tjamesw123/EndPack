@@ -35,6 +35,11 @@ hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "2369ce0e9328654675cf7f94b16472f83d2d29af8c081b34aed9c30c82091e66"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
